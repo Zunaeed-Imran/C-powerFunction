@@ -1,0 +1,2 @@
+# C-powerFunction
+C++ powerFunction
